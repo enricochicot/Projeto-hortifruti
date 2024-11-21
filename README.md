@@ -1,5 +1,8 @@
 # Projeto-hortifruti
 
+Junto com outro colega desenvolvemos este código em c++, a idéia era que executassemos
+a aplicação no vs code com funções trabalhando entre si.
+
 Ao iniciar o programa, o usuário verá o Menu Principal, que oferece opções de
 navegação simples: "1" para Frutas, "2" para Vegetais, "3" para Legumes e "4" para
 Sair do programa. Cada opção direciona o usuário para a seção correspondente ou
@@ -59,6 +62,8 @@ Após preencher esses dados, o programa armazena o item na lista
 correspondente, atualizando as informações exibidas para refletir o novo cadastro. O
 campo "Índice do Item" será gerado automaticamente pelo programa para manter a
 organização.
+
+
 
 A última opção da sessão, chamada "Voltar", permite que o usuário retorne ao
 menu anterior. Ao selecionar essa opção, o programa direciona o usuário de volta ao
