@@ -1,4 +1,4 @@
-# Projeto-hortifruti
+# Projeto hortifruti (primeiro semestre em ADS Unip-2024)
 
 Junto com outro colega desenvolvemos este código em c++, a idéia era que executassemos
 a aplicação no vs code com funções trabalhando entre si.
