@@ -68,8 +68,6 @@ Editor de código como Visual Studio Code
 Terminal de comandos (CMD, PowerShell ou Terminal do VS Code)
 
 # Instruções para instalação
-Se o arquivo principal do seu código se chama main.cpp, utilize o seguinte comando no terminal:
-
 g++ -o estoque main.cpp
 
 Esse comando compila o programa e gera um executável chamado estoque.
